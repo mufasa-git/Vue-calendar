@@ -19,7 +19,7 @@
   "homepage": "https://github.com/zimudec/vue-tuicalendar-vuetify-example#readme",
   "dependencies": {
     "chance": "1.0.16",
-    "moment-timezone": "^0.5.21",
+    "moment-timezone": "^0.5.35",
     "tui-calendar": "1.4.0",
     "vue": "^2.5.16",
     "vuetify": "^1.0.19",
